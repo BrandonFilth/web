@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Python - Organizador de archivos
-excerpt: "Este script te permite ordenar archivos que tengas ubicados en una carpeta para posteriormente agruparlos segun su extension."
+excerpt: "Este script te permite ordenar archivos que tengas ubicados en una carpeta para posteriormente agruparlos en sus respectivas  carpetas segun su extension de archivo (.jpg - .png - mp3 - mp4 - .docx - .gif)"
 date: 2022-09-11
 classes: wide
 header:
