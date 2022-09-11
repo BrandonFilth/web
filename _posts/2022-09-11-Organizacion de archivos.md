@@ -5,9 +5,9 @@ excerpt: "Delivery is a quick and fun easy box where we have to create a MatterM
 date: 2022-09-11
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
+  teaser: /assets/images/python.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/code.png
 categories:
   - hackthebox
   - infosec
