@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Brandon Filth"
-  avatar           : "/assets/images/synthwave.jpg"
+  avatar           : "/assets/images/moonriverpunk.png"
   bio              : "Programming student blog :D"
   location         : "Mexico"
   email            : "brandonfilth6@gmail.com"
@@ -117,20 +117,19 @@ author:
   github           : "BrandonFilth"
   gitlab           :
   google_plus      :
-  keybase          : "Brandon"
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "brandon-filth-321110214" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "BrandonFilth"
+  twitter          : "FilthBrandon"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # ""
 
 
 # Reading Files
