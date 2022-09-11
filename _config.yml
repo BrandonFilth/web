@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brandon Filth"
+title                    : "₿randon Filth"
 title_separator          : "-"
-name                     : "Brandon Filth"
+name                     : "₿randon Filth"
 description              : "Programming student blog"
 url                      : "https://brandonfilth.website" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
