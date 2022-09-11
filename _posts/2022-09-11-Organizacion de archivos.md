@@ -1,7 +1,10 @@
 ---
 layout: single
 title: Python - Organizacion de archivos
-excerpt: "Delivery is a quick and fun easy box where we have to create a MatterMost account and validate it by using automatic email accounts created by the OsTicket application. The admins on this platform have very poor security practices and put plaintext credentials in MatterMost. Once we get the initial shell with the creds from MatterMost we'll poke around MySQL and get a root password bcrypt hash. Using a hint left in the MatterMost channel about the password being a variation of PleaseSubscribe!, we'll use hashcat combined with rules to crack the password then get the root shell."
+excerpt: "Este script te permite ordenar archivos que tengas ubicados en una carpeta para posteriormente organizarlos segun su extension
+Primero que nada debemos importar la libreria os para realizar lectura y escritura de archivos en nuestro equipo
+despues debemos declarar todas las carpetas que se veran involucradas, yo por ejemplo quiero ordenar los archivos que se encuentran en mi carpeta de descargas, las demas carpetas seran las que recibiran los archivos segun su extension por ejemplo:
+la carpeta picturesFolder almacenara todos los archivos cuya extension sea .jpg o .png o .jpeg o .gif"
 date: 2022-09-11
 classes: wide
 header:
