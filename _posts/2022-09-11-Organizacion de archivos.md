@@ -12,14 +12,12 @@ header:
   teaser_home_page: true
   icon: /assets/images/code.png
 categories:
-  - hackthebox
-  - infosec
+  - Python
+  - Programacion
 tags:  
-  - osticket
-  - mysql
-  - mattermost
-  - hashcat
-  - rules
+  - Python
+  - Archivos
+  - Programacion
 ---
 
 ![](/assets/images/htb-writeup-delivery/delivery_logo.png)
