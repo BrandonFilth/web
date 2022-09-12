@@ -25,7 +25,7 @@ la carpeta picturesFolder almacenara todos los archivos cuya extension sea [.jpg
 
 ![](/assets/images/htb-writeup-delivery/delivery_logo.png)
 
-## Crpetas
+## Carpetas
 
 Guardamos en variables los directorios de las carpetas que vamos a usar mas adelante
 
