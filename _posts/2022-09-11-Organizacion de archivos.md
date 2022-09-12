@@ -21,7 +21,7 @@ tags:
 
 Primero que nada debemos importar la libreria os para realizar lectura y escritura de archivos en nuestro equipo
 despues debemos declarar todas las carpetas que se veran involucradas, yo por ejemplo quiero ordenar los archivos que se encuentran en mi carpeta de descargas, las demas carpetas seran las que recibiran los archivos segun su extension por ejemplo:
-la carpeta picturesFolder almacenara todos los archivos cuya extension sea .jpg o .png o .jpeg o .gif.
+la carpeta picturesFolder almacenara todos los archivos cuya extension sea [.jpg, .png, .jpeg, .gif].
 
 ![](/assets/images/htb-writeup-delivery/delivery_logo.png)
 ## Portscan
