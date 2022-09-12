@@ -24,25 +24,10 @@ despues debemos declarar todas las carpetas que se veran involucradas, yo por ej
 la carpeta picturesFolder almacenara todos los archivos cuya extension sea [.jpg, .png, .jpeg, .gif].
 
 ![](/assets/images/htb-writeup-delivery/delivery_logo.png)
-## Portscan
 
-```
-import os
+## Crpetas
 
-#change folder locations and you're ready to automate file placement:D
-
-downloadsFolder = "/Users/brand/Downloads/"
-picturesFolder = "/Users/brand/Downloads/Imag/"
-videosFolder = "/Users/brand/Downloads/Videos/"
-compFolder = "/Users/brand/Downloads/Comp/"
-programFolder = "/Users/brand/Downloads/Programs/"
-musicFolder = "/Users/brand/Downloads/Music/"
-docFolder = "/Users/brand/Downloads/Docs/"
-```
-
-## Website
-
-The Delivery website is pretty basic, there's a link to a vhost called helpdesk.delivery.htb and a contact us section. We'll add this entry to our local host before proceeding further.
+Guardamos en variables los directorios de las carpetas que vamos a usar mas adelante
 
 ![](/assets/images/Organizador-de-archivos/Carpetas.png)
 
