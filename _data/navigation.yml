@@ -3,9 +3,11 @@ main:
     url: /
   - title: "Posts"
     url: /year-archive/
-  - title: "Categories"
+  - title: "Categorias"
     url: /categories/
-  - title: "Tags"
+  - title: "Etiquetas"
     url: /tags/
+  - title: "Buscador"
+    url: /buscador/
   - title: "About"
     url: /about/
