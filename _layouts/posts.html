@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 ---
 
 {{ content }}
@@ -24,6 +24,6 @@ layout: archive
         {% include archive-single.html type=page.entries_layout %}
       {% endfor %}
     </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Volver Arriba 👆' }} &uarr;</a>
   </section>
 {% endfor %}
