@@ -14,7 +14,7 @@ url                      : "https://brandonfilth.github.io" # the base hostname 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "BrandonFilth/brandonfilth.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/btcsystemlogo.png"
-teaser                   : "/assets/images/java♥.ico"
+teaser                   : #"/assets/images/java♥.ico"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
