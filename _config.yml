@@ -1,6 +1,6 @@
 
 
-#theme                  : "minimal-mistakes-jekyll"
+#theme                  : "minimal-mistakes-jekyll"a
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "haxor"
 
