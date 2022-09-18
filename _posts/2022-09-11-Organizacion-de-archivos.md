@@ -78,6 +78,6 @@ Dentro del **for** utilizaremos condicionales *if* para evaluar si la extensión
 ```
 nota que dentro del *if* utilizamos la funcion *rename* de la libreria `os` para cambiar la ubicacion del archivo (*filename*) ubicado en la carpeta (*downloadsFolder*) para posteriormente indicarle cual será su nueva ubicacion 
 
-#### Codigo 
-Puedes encontrar todo el codigo y copiarlo o descargarlo desde- [este repositorio](https://github.com/BrandonFilth/folder-classification/blob/main/main.py)
+### Codigo 
+Puedes encontrar todo el codigo y copiarlo o descargarlo desde [este repositorio 💻](https://github.com/BrandonFilth/folder-classification/blob/main/main.py) solo asegurate de cambiar los directorios de las carpetas para que funcione :D
 
