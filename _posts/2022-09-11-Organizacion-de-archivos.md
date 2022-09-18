@@ -23,6 +23,13 @@ Primero que nada debemos importar la libreria `os` para realizar lectura y escri
 despues debemos declarar todas las carpetas que se veran involucradas, para este ejemplo ordenaremos los archivos que se encuentran en mi carpeta de descargas, las demas carpetas seran las que recibiran los archivos segun su extension, por ejemplo:
 la carpeta picturesFolder almacenara todos los archivos cuya extension sea `[.jpg, .png, .jpeg, .gif]`.
 
+
+![](/assets/images/htb-writeup-delivery/delivery_logo.png)
+
+## Carpetas
+
+Guardamos en variables los directorios de las carpetas que vamos a usar mas adelante
+
 ```python 
 import os
 
@@ -37,13 +44,6 @@ musicFolder = "/Users/brand/Downloads/Music/"
 docFolder = "/Users/brand/Downloads/Docs/"
 
 ```
-![](/assets/images/htb-writeup-delivery/delivery_logo.png)
-
-## Carpetas
-
-Guardamos en variables los directorios de las carpetas que vamos a usar mas adelante
-
-![](/assets/images/Organizador-de-archivos/Carpetas.png)
 
 The contact us section tells us we need an @delivery.htb email address and tells us port 8065 is a MatterMost server. MatterMost is a Slack-like collaboration platform that can be self-hosted.
 
