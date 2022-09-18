@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Python - Organizador de archivos
-excerpt: "Este script te permite ordenar archivos que tengas ubicados en una carpeta para posteriormente agruparlos en sus respectivas  carpetas segun su extension de archivo (.jpg - .png - mp3 - mp4 - .docx - .gif)"
+excerpt: "Este script te permite ordenar archivos que tengas ubicados en una carpeta para posteriormente agruparlos en sus respectivas  carpetas segun su extension de archivo `[.jpg - .png - mp3 - mp4 - .docx - .gif]`"
 date: 2022-09-11
 classes: wide
 header:
@@ -19,9 +19,9 @@ tags:
 
 
 
-Primero que nada debemos importar la libreria os para realizar lectura y escritura de archivos en nuestro equipo
+Primero que nada debemos importar la libreria `os` para realizar lectura y escritura de archivos en nuestro equipo
 despues debemos declarar todas las carpetas que se veran involucradas, yo por ejemplo quiero ordenar los archivos que se encuentran en mi carpeta de descargas, las demas carpetas seran las que recibiran los archivos segun su extension por ejemplo:
-la carpeta picturesFolder almacenara todos los archivos cuya extension sea [.jpg, .png, .jpeg, .gif].
+la carpeta picturesFolder almacenara todos los archivos cuya extension sea `[.jpg, .png, .jpeg, .gif]`.
 
 ![](/assets/images/htb-writeup-delivery/delivery_logo.png)
 
