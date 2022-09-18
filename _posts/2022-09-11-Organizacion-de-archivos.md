@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Python - Organizador de archivos
-excerpt: "Este script te permite ordenar archivos que tengas ubicados en una carpeta para posteriormente agruparlos en sus respectivas  carpetas segun su extension de archivo `[.jpg - .png - mp3 - mp4 - .docx - .gif]`"
+excerpt: "Este script te permite ordenar archivos ubicados en una carpeta para posteriormente agruparlos en carpetas segun su extension de archivo `[.jpg - .png - mp3 - mp4 - .docx - .gif]`"
 date: 2022-09-11
 classes: wide
 header:
@@ -20,9 +20,23 @@ tags:
 
 
 Primero que nada debemos importar la libreria `os` para realizar lectura y escritura de archivos en nuestro equipo
-despues debemos declarar todas las carpetas que se veran involucradas, yo por ejemplo quiero ordenar los archivos que se encuentran en mi carpeta de descargas, las demas carpetas seran las que recibiran los archivos segun su extension por ejemplo:
+despues debemos declarar todas las carpetas que se veran involucradas, para este ejemplo ordenaremos los archivos que se encuentran en mi carpeta de descargas, las demas carpetas seran las que recibiran los archivos segun su extension, por ejemplo:
 la carpeta picturesFolder almacenara todos los archivos cuya extension sea `[.jpg, .png, .jpeg, .gif]`.
 
+```python 
+import os
+
+#change folder locations and you're ready to automate file placement:D
+
+downloadsFolder = "/Users/brand/Downloads/"
+picturesFolder = "/Users/brand/Downloads/Imag/"
+videosFolder = "/Users/brand/Downloads/Videos/"
+compFolder = "/Users/brand/Downloads/Comp/"
+programFolder = "/Users/brand/Downloads/Programs/"
+musicFolder = "/Users/brand/Downloads/Music/"
+docFolder = "/Users/brand/Downloads/Docs/"
+
+```
 ![](/assets/images/htb-writeup-delivery/delivery_logo.png)
 
 ## Carpetas
