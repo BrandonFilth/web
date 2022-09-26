@@ -26,20 +26,4 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
-/*
-$background-color: #01050a !default; //050d1a  262728
-$text-color: #F8F8F8 !default; //eaeaea
-$primary-color: #FF0404 !default; //16c8d1 1BEAF5
-$border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: mix(rgb(0, 156, 204), $background-color, 15%) !default;
-$code-background-color-dark: #0E1944  !default;  //mix(#0E1944, $background-color, 20%)
-$form-background-color: mix(#000, $background-color, 15%) !default;
-$footer-background-color: mix(#000, $background-color, 30%) !default;
-$link-color: mix($primary-color, $text-color, 40%) !default;
-$link-color-hover: mix(#fff, $link-color, 25%) !default;
-$link-color-visited: mix(#000, $link-color, 25%) !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
-$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
-*/
