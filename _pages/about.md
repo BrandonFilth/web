@@ -1,8 +1,9 @@
 ---
 title: "About"
+author_profile: true
 permalink: /about/
 date: 2022-09-30
-author_profile: true
+
 ---
 <br>
 Mi nombre es Brandon Correa Estudiante de Ingenieria en Computacion de 4to semestre <br>
