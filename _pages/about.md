@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Informacion del autor"
 author_profile: true
 permalink: /about/
