@@ -52,14 +52,12 @@ Asi lucía nuestro website:
 <p align="left">
 <img src="/assets/images/LogIn.jpg">
 </p>
-<p align="left">
-<img src="/assets/images/lieth.jpg">
-</p>
 
 
 
-### Hobbies
-La mayor parte del tiempo mis hobbies estan orientados en programacion, cripto, estudio autodidacta,<br>
+
+## Hobbies
+La mayor parte del tiempo mis hobbies estan orientados en programacion, cripto, estudio autodidacta,
 lectura (micro y macroenoconomia), escuchar musica y de vez en cuando jugar videojuegos
 
 
