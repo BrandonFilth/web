@@ -7,7 +7,7 @@ date: 2022-09-30
 
 ---
 
-## Datos Personales
+# Datos Personales
 **Nombre:** Brandon Correa<br>
 **Estudios:** Ingenieria en computacion<br>
 **Fecha de nacimiento:** 22/05/22
