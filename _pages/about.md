@@ -8,8 +8,9 @@ date: 2022-09-30
 ---
 <br>
 # Datos Personales
-Mi nombre es Brandon Correa Estudiante de Ingenieria en Computacion de 4to semestre <br>
-Fecha de nacimiento: 22/05/22
+**Nombre:** Brandon Correa
+**Estudios:**Ingenieria en computacion
+**Fecha de nacimiento:** 22/05/22
 
 ## Lenguajes
 Cuento con conocimientos en lenguajes de programacion como:
@@ -26,6 +27,7 @@ Cuento con conocimientos en lenguajes de programacion como:
 - Unity
 - Blender
 - Linux (Ubuntu)
+<br>
 Conocimiento en el mercado criptografico asi como sus derivados, Blockchain y tokenizacion (Smart Contracts)
 desplegada en redes como la Binance Smart Chain (BSC) y Ethereum (ETH)
 
@@ -43,9 +45,6 @@ Asi lucía nuestro website:
 <p align="left">
 <img src="/assets/images/LogIn.jpg">
 </p>
-
-
-
 
 
 
