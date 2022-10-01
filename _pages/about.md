@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tags
 title: "Informacion del autor"
 author_profile: true
 permalink: /about/
