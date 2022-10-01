@@ -7,7 +7,11 @@ date: 2022-09-30
 
 ---
 <br>
+# Datos Personales
 Mi nombre es Brandon Correa Estudiante de Ingenieria en Computacion de 4to semestre <br>
+Fecha de nacimiento: 22/05/22
+
+## Lenguajes
 Cuento con conocimientos en lenguajes de programacion como:
 - Java (Escritorio)
 - C (Escritorio)
@@ -15,12 +19,40 @@ Cuento con conocimientos en lenguajes de programacion como:
 - C# (Videojuegos)
 - Python (Escritorio y web)
 
-Reparacion, mantenimiento de Software y Hadware, manejo basico de WordPress (Elementor), motores graficos como:
+
+## Habilidades Extra
+- Reparacion, mantenimiento de Software y Hadware
+- Manejo basico de WordPress (Elementor)
 - Unity
 - Blender
-
-conocimiento en el mercado criptografico asi como sus derivados, Blockchain y tokenizacion (Smart Contracts)
+- Linux (Ubuntu)
+Conocimiento en el mercado criptografico asi como sus derivados, Blockchain y tokenizacion (Smart Contracts)
 desplegada en redes como la Binance Smart Chain (BSC) y Ethereum (ETH)
+
+## Mercado Cripto 
+
+## Proyectos
+Organicé y lidere un equipo internacional (Canadá,EUA,Chile,España,Mexico) para desarrollar una criptomoneda en conjunto, conformado por 3 programadores, 2 diseñadores graficos y community managers, logramos ser listados en CoinMarketCap, ser top 10 en DexTools por volumen de trading
+y busquedas... 
+### Links de Referencia: 
+-[CoinMarketCap]: [https://coinmarketcap.com/currencies/doni-coin/]
+-[Twitter]: [https://twitter.com/CoinDoni]
+-[Youtube]: [https://www.youtube.com/watch?v=_AP_Z10C4aM]
+
+Asi lucía nuestro website: 
+<p align="left">
+<img src="assets/images/LogIn.jpg">
+</p>
+
+
+
+
+
+
+### Hobbies
+La mayor parte del tiempo mis hobbies estan orientados en programacion, cripto, estudio autodidacta,<br>
+lectura (micro  y macroenoconomia), escuchar musica y de vez en cuando jugar videojuegos
+
 
 
 
