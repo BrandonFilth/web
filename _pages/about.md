@@ -3,8 +3,6 @@ layout: single
 title: "Informacion del autor"
 author_profile: true
 permalink: /about/
-date: 2022-09-30
-
 ---
 
 # Datos Personales
@@ -33,7 +31,7 @@ desplegada en redes como la Binance Smart Chain (BSC) y Ethereum (ETH)
 
 ## Mercado Cripto 
 
-/***/***/***/***/***/***/
+/**/**/**/**/**/**/
 
 
 ## Proyectos
