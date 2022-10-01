@@ -35,13 +35,13 @@ desplegada en redes como la Binance Smart Chain (BSC) y Ethereum (ETH)
 Organicé y lidere un equipo internacional (Canadá,EUA,Chile,España,Mexico) para desarrollar una criptomoneda en conjunto, conformado por 3 programadores, 2 diseñadores graficos y community managers, logramos ser listados en CoinMarketCap, ser top 10 en DexTools por volumen de trading
 y busquedas... 
 ### Links de Referencia: 
-- [CoinMarketCap]: [https://coinmarketcap.com/currencies/doni-coin/]
-- [Twitter]: [https://twitter.com/CoinDoni]
-- [Youtube]: [https://www.youtube.com/watch?v=_AP_Z10C4aM]
+- [CoinMarketCap](https://coinmarketcap.com/currencies/doni-coin/)
+- [Twitter](https://twitter.com/CoinDoni)
+- [Youtube](https://www.youtube.com/watch?v=_AP_Z10C4aM)
 
 Asi lucía nuestro website: 
-<p align="center">
-<img src="assets/images/LogIn.jpg">
+<p align="left">
+<img src="/assets/images/LogIn.jpg">
 </p>
 
 
