@@ -8,11 +8,13 @@ date: 2022-09-30
 ---
 <br>
 # Datos Personales
-**Nombre:** Brandon Correa
-**Estudios:**Ingenieria en computacion
+
+**Nombre:** Brandon Correa<br>
+**Estudios:**Ingenieria en computacion<br>
 **Fecha de nacimiento:** 22/05/22
 
 ## Lenguajes
+
 Cuento con conocimientos en lenguajes de programacion como:
 - Java (Escritorio)
 - C (Escritorio)
@@ -36,7 +38,9 @@ desplegada en redes como la Binance Smart Chain (BSC) y Ethereum (ETH)
 ## Proyectos
 Organicé y lidere un equipo internacional (Canadá,EUA,Chile,España,Mexico) para desarrollar una criptomoneda en conjunto, conformado por 3 programadores, 2 diseñadores graficos y community managers, logramos ser listados en CoinMarketCap, ser top 10 en DexTools por volumen de trading
 y busquedas... 
+
 ### Links de Referencia: 
+
 - [CoinMarketCap](https://coinmarketcap.com/currencies/doni-coin/)
 - [Twitter](https://twitter.com/CoinDoni)
 - [Youtube](https://www.youtube.com/watch?v=_AP_Z10C4aM)
