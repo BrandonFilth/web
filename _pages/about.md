@@ -8,7 +8,7 @@ permalink: /about/
 # Datos Personales
 **Nombre:** Brandon Correa<br>
 **Estudios:** Ingenieria en computacion<br>
-**Fecha de nacimiento:** 22/05/22
+**Fecha de nacimiento:** 22/05/02
 
 ## Lenguajes
 Cuento con conocimientos en lenguajes de programacion como:
