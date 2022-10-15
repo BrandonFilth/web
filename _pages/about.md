@@ -58,6 +58,33 @@ Asi lucía nuestro website:
 La mayor parte del tiempo mis hobbies estan orientados en programacion, cripto, estudio autodidacta,
 lectura (micro y macroenoconomia), escuchar musica y de vez en cuando jugar videojuegos
 
+<html>
+    <head>
+        <script>
+        document.addEventListener("DOMContentLoaded", function() {
 
+function generateBitcoin() {
+  var bitcoin = document.createElement('div');
+  bitcoin.innerHTML = '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/2000px-Bitcoin.svg.png" width="50px" height="50px">';
+  bitcoin.style.position = 'absolute';
+  bitcoin.style.left = Math.random() * window.innerWidth + 'px';
+  bitcoin.style.top = Math.random() * window.innerHeight + 'px';
+  document.body.appendChild(bitcoin);
+}
+
+setInterval(generateBitcoin, 1500);
+
+function removeBitcoin(event) {
+  event.target.remove();
+}
+
+document.body.addEventListener('click', removeBitcoin);
+});
+        </script>
+    </head>
+    <body style="margin: 0;">
+       
+    </body>
+</html>
 
 
