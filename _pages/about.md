@@ -75,7 +75,7 @@ function generateBitcoin() {
 setInterval(generateBitcoin, 1500);
 
 function removeBitcoin(event) {
-  event.target.remove();
+  event.target.remove(bitcoin);
 }
 
 document.body.addEventListener('click', removeBitcoin);
