@@ -23,8 +23,6 @@ Primero que nada debemos *importar* la librería `os` para realizar lectura y es
 después debemos declarar todas las carpetas que se verán involucradas, para este ejemplo ordenaremos los archivos que se encuentran en mi carpeta de descargas, las demás carpetas serán las que recibirán los archivos según su extensión, por ejemplo:
 la carpeta picturesFolder almacenara todos los archivos cuya extensión sea `[.jpg, .png, .jpeg, .gif]`.
 
-![](/assets/images/htb-writeup-delivery/delivery_logo.png)
-
 ## Carpetas
 
 Guardamos en variables los directorios de las carpetas que vamos a usar mas adelante
