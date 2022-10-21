@@ -3,12 +3,12 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #0a0b1a !default; //050d1a 262728 0a0b1a
-$text-color: #F8F8F8 !default; //eaeaea
-$primary-color: #FF0404 !default; //16c8d1 1BEAF5
+$background-color: #0a0b1a !default; 
+$text-color: #F8F8F8 !default; 
+$primary-color: #FF0404 !default; 
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: #42474e94 !default;
-$code-background-color-dark: #0E1944  !default;  //mix(#0E1944, $background-color, 20%)
+$code-background-color-dark: #0E1944  !default;  
 $form-background-color: mix(#000, $background-color, 15%) !default;
 $footer-background-color: mix(#000, $background-color, 30%) !default;
 $link-color: #44ffcbd1 !default;
