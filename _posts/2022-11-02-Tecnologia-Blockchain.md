@@ -24,7 +24,7 @@ seguimiento histórico de todas las transacciones hechas de cualquier activo que
 
 Al convertirte en validador de la red o "minero" estás prestando tu poder de cómputo y 
 resolución de algoritmos a cambio de una comisión, de esta forma estas aportando 
-seguridad a la red, haciendo que sea imposible realizar algún registro fraudulento en la red 
+seguridad a la red, haciendo que sea imposible realizar algún registro o bloque fraudulento
 (a menos de que tengas el 51% de poder de minado o procesamiento de dicha blockchain)
 <p align="center">
 <img src="/assets/images/Tecnologia-Blockchain/FakeTransac.gif">
