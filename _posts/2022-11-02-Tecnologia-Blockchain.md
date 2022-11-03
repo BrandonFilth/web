@@ -5,9 +5,9 @@ excerpt: "Aqui entenderas que es y como funciona la tecnologia blockchain, sus t
 date: 2022-11-02
 classes: wide
 header:
-  teaser: /assets/images/Iconos-Tematica/Cripto.png
+  teaser: /assets/images/blockchain.png
   teaser_home_page: true
-  icon: /assets/images/blockchain.png
+  icon: /assets/images/Iconos-Tematica/Cripto.png
 categories:
   - Crypto
   - Blockchain
@@ -53,4 +53,15 @@ bloque que se confirma. Los nodos están comunicados entre sí, por lo que este 
 bloque será distribuido a todos los demás nodos que estén en dicha red.
 
 ## Tipos de blockchain
+
+### Pública 
+Una blockchain pública puede ser accesible a cualquier usuario del mundo, el cual puede 
+crear un nodo con solo un ordenador y conexión al internet, el punto bueno y malo de una
+blockchain pública es que a mayor número de validadores la red es más segura, pero en 
+contraparte al tener pocos la red se hace vulnerable a ataques o a transacciones fraudulentas.
+Aunque existen varios protocolos de consenso y medidas de seguridad como
+el PoW (proof of work) o prueba de trabajo y el PoS (Proof of Stake) o prueba de participación
+Teniendo como ejemplo  a Bitcoin en Pow y a Ethereum en PoS el cual antes, al igual que Bitcoin 
+era PoW pero con el Merge en este 2022 cambió a PoS para ser más amigable con el medio ambiente
+
 
