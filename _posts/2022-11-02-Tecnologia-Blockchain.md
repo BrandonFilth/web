@@ -51,7 +51,7 @@ para esa transacción conteniendo sus datos únicos
 Los mineros son ordenadores dedicados a procesar y validar las transacciones, al 
 completar un bloque de transacciones el minero recibirá una recompensa en forma de la 
 cripto nativa de esa red, por ejemplo Bitcoin.
-<p align="left">
+<p align="center">
 <img src="/assets/images/Tecnologia-Blockchain/miner.gif">
 </p>
 
@@ -76,7 +76,6 @@ Teniendo como ejemplo  a `Bitcoin` en Pow y a `Ethereum` en PoS el cual antes, a
 era PoW pero con el Merge en este 2022 cambió a PoS para ser más amigable con el medio ambiente
 
 ### Publica 
-Privada:
 Una blockchain privada a diferencia de una pública depende y solo da acceso a una entidad centralizada 
 (empresa, organización o individuo). Aunque contiene los mismos elementos que una blockchain pública.
 Una de las más conocidas es [Hyperledger](https://www.hyperledger.org/)
