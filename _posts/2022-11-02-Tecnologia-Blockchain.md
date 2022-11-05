@@ -18,14 +18,14 @@ tags:
 
 La *blockchain* es un libro público compartido y duplicado en varios dispositivos, los cuales
 se vuelven validadores de la red al tener una copia de esta misma, procesando cada 
-transacción, la cual genera un hash único que es añadido en el bloque más reciente, una
+transacción, la cual genera un `hash` único que es añadido en el bloque más reciente, una
 vez que el bloque está completo se acopla a la cadena de bloques. Llevando así un  
 seguimiento histórico de todas las transacciones hechas de cualquier activo que se opere dentro de esa red.
 
-Al convertirte en validador de la red o "minero" estás prestando tu poder de cómputo y 
+Al convertirte en validador de la red o *"minero"* estás prestando tu poder de cómputo y 
 resolución de algoritmos a cambio de una comisión, de esta forma estas aportando 
 seguridad a la red, haciendo que sea imposible realizar algún registro o bloque fraudulento
-(a menos de que tengas el 51% de poder de minado o procesamiento de dicha *blockchain*)
+(a menos de que tengas el 51% de poder de *minado* o procesamiento de dicha *blockchain*)
 <p align="center">
 <img src="/assets/images/Tecnologia-Blockchain/FakeTransac.gif">
 </p>
@@ -50,15 +50,15 @@ para esa transacción conteniendo sus datos únicos
 ### Mineros:
 Los *mineros* son ordenadores dedicados a procesar y validar las transacciones, al 
 completar un *bloque* de transacciones el *minero* recibirá una recompensa en forma de la 
-cripto nativa de esa red, por ejemplo `Bitcoin`.
+`cripto` nativa de esa red, por ejemplo `Bitcoin`.
 <p align="center">
 <img src="/assets/images/Tecnologia-Blockchain/miner.gif">
 </p>
 
 ### Nodo:
 Un *nodo* es un ordenador dedicado a almacenar y distribuir una copia con cada nuevo 
-bloque que se confirma. Los nodos están comunicados entre sí, por lo que este nuevo
-bloque será distribuido a todos los demás nodos que estén en dicha red.
+*bloque* que se confirma. Los *nodos* están comunicados entre sí, por lo que este nuevo
+*bloque* será distribuido a todos los demás *nodos* que estén en dicha red.
 <p align="left">
 <img src="/assets/images/Tecnologia-Blockchain/PoW.gif">
 </p>
@@ -67,22 +67,22 @@ bloque será distribuido a todos los demás nodos que estén en dicha red.
 
 ### Pública 
 Una *blockchain* pública puede ser accesible a cualquier usuario del mundo, el cual puede 
-crear un nodo con solo un ordenador y conexión al internet, el punto bueno y malo de una
+crear un *nodo* con solo un ordenador y conexión al internet, el punto bueno y malo de una
 blockchain pública es que a mayor número de validadores la red es más segura, pero en 
 contraparte al tener pocos la red se hace vulnerable a ataques o a transacciones fraudulentas.
 Aunque existen varios protocolos de consenso y medidas de seguridad como
 el `PoW` *(proof of work)* o prueba de trabajo y el `PoS` *(Proof of Stake)* o prueba de participación
-Teniendo como ejemplo  a `Bitcoin` en Pow y a `Ethereum` en PoS el cual antes, al igual que Bitcoin 
-era PoW pero con el Merge en este 2022 cambió a PoS para ser más amigable con el medio ambiente
+Teniendo como ejemplo  a `Bitcoin` en `Pow` y a `Ethereum` en `PoS` el cual antes, al igual que `Bitcoin` 
+era `PoW` pero con el Merge en este 2022 cambió a PoS para ser más amigable con el medio ambiente
 
 ### Publica 
-Una blockchain privada a diferencia de una pública depende y solo da acceso a una entidad centralizada 
-(empresa, organización o individuo). Aunque contiene los mismos elementos que una blockchain pública.
+Una *blockchain* privada a diferencia de una pública depende y solo da acceso a una entidad centralizada 
+(empresa, organización o individuo). Aunque contiene los mismos elementos que una *blockchain* pública.
 Una de las más conocidas es [Hyperledger](https://www.hyperledger.org/)
 
 ### Híbrida
-Una blockchain híbrida combina las dos anteriores haciéndola personalizable, donde los miembros de esta 
+Una *blockchain* híbrida combina las dos anteriores haciéndola personalizable, donde los miembros de esta 
 pueden elegir quienes participan en la red o qué transacciones se harán públicas, garantizando transparencia 
 y privacidad al mismo tiempo. ya que así información delicada no será publicada ni se podrá saber quienes 
-son los integrantes de la red si no tienes acceso a ella. Como ejemplo de blockchain híbrida tenemos a [XinFin](https://xinfin.org/) 
+son los integrantes de la red si no tienes acceso a ella. Como ejemplo de *blockchain* híbrida tenemos a [XinFin](https://xinfin.org/) 
 
