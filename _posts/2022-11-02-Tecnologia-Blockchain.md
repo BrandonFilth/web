@@ -29,8 +29,7 @@ seguridad a la red, haciendo que sea imposible realizar algún registro o bloque
 <p align="center">
 <img src="/assets/images/Tecnologia-Blockchain/FakeTransac.gif">
 </p>
-Como te conté antes, al convertirte en validador de la red estas gastando electricidad y 
-prestando tu poder de cómputo para hacer la red más segura. Resolviendo problemas matemáticos
+Como te conté antes, al convertirte en validador de la red estas gastando electricidad y prestando tu poder de cómputo para hacer la red más segura. Resolviendo problemas matemáticos
 mayormente basados en el algoritmo de cifrado SHA256.
 
 A diferencia de una red centralizada o servidores de almacén de datos, una *blockchain* 
