@@ -73,7 +73,7 @@ contraparte al tener pocos la red se hace vulnerable a ataques o a transacciones
 Aunque existen varios protocolos de consenso y medidas de seguridad como
 el `PoW` *(proof of work)* o prueba de trabajo y el `PoS` *(Proof of Stake)* o prueba de participación
 Teniendo como ejemplo  a `Bitcoin` en `Pow` y a `Ethereum` en `PoS` el cual antes, al igual que `Bitcoin` 
-era `PoW` pero con el Merge en este 2022 cambió a PoS para ser más amigable con el medio ambiente
+era `PoW` pero con el Merge en este 2022 cambió a `PoS` para ser más amigable con el medio ambiente
 
 ### Publica 
 Una *blockchain* privada a diferencia de una pública depende y solo da acceso a una entidad centralizada 
