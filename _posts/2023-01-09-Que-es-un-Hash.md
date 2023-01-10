@@ -43,7 +43,7 @@ utilizan hashes para generar claves únicas para los enlaces de descarga, para e
 que los usuarios compartan enlaces no autorizados.
 
 <p align="center">
-<img src="assets/images/Que-es-un-Hash/proceso_hash.png">
+<img src="assets\images\Que-es-un-Hash\proceso_hash.png">
 </p>
 
 ## Algoritmos de cifrado
