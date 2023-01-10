@@ -5,9 +5,9 @@ excerpt: "Aqui entenderas que es y como funciona la tecnologia blockchain, sus t
 date: 2022-11-02
 classes: wide
 header:
-  teaser: /assets/images/blockchain.png
+  teaser: assets\images\Que-es-un-Hash\hash.png
   teaser_home_page: true
-  icon: /assets/images/Iconos-Tematica/Cripto.png
+  icon: /assets/images/Iconos-Tematica/informatica.png
 categories:
   - Crypto
   - Blockchain
