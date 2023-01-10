@@ -22,8 +22,7 @@ transacción, la cual genera un [`hash`](https://brandonfilth.github.io/Que-es-u
 vez que el bloque está completo se acopla a la cadena de bloques. Llevando así un  
 seguimiento histórico de todas las transacciones hechas de cualquier activo que se opere dentro de esa red.
 
-Al convertirte en validador de la red o *"minero"* estás prestando tu poder de cómputo y 
-resolución de algoritmos a cambio de una comisión, de esta forma estas aportando 
+Al convertirte en validador de la red o *"minero"* estás prestando tu poder de cómputo y resolución de algoritmos a cambio de una comisión, de esta forma estas aportando 
 seguridad a la red, haciendo que sea imposible realizar algún registro o bloque fraudulento
 (a menos de que tengas el *51%* de poder de *minado* o procesamiento de dicha *blockchain*)
 <p align="center">
