@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Informatica - ¿Que es un Hash?
+title: ¿Que es un Hash?
 excerpt: "Entendiendo los hashes: cómo funcionan y cuál es su papel en la 
 informática y la criptografía "
 date: 2023-01-09
