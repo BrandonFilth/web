@@ -16,3 +16,4 @@ tags:
   - Blockchain
   - Informatica
 ---
+Un *hash* es una función matemática que toma una cadena de datos de cualquier tamaño como entrada y devuelve una cadena de datos de tamaño fijo como salida. Un hash es una herramienta muy útil en informática, ya que se utiliza en muchas aplicaciones diferentes. Algunos usos comunes de los hashes incluyen:
