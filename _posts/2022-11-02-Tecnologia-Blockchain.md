@@ -18,7 +18,7 @@ tags:
 
 La *blockchain* es un libro público compartido y duplicado en varios dispositivos, los cuales
 se vuelven validadores de la red al tener una copia de esta misma, procesando cada 
-transacción, la cual genera un `hash` único que es añadido en el bloque más reciente, una
+transacción, la cual genera un [`hash`](_posts\2022-11-02-Tecnologia-Blockchain.md) único que es añadido en el bloque más reciente, una
 vez que el bloque está completo se acopla a la cadena de bloques. Llevando así un  
 seguimiento histórico de todas las transacciones hechas de cualquier activo que se opere dentro de esa red.
 
