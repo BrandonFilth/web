@@ -80,3 +80,12 @@ nota que dentro del *if* utilizamos la funcion *rename* de la libreria `os` para
 Puedes encontrar todo el codigo y copiarlo o descargarlo desde [este repositorio 💻](https://github.com/BrandonFilth/folder-classification/blob/main/main.py) 
 solo asegurate de cambiar los directorios de las carpetas para que funcione :D
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QBRV3CHHNN"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-QBRV3CHHNN');
+</script>
+

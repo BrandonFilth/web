@@ -85,3 +85,11 @@ pueden elegir quienes participan en la red o qué transacciones se harán públi
 y privacidad al mismo tiempo. ya que así información delicada no será publicada ni se podrá saber quienes 
 son los integrantes de la red si no tienes acceso a ella. Como ejemplo de *blockchain* híbrida tenemos a [XinFin](https://xinfin.org/) 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QBRV3CHHNN"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-QBRV3CHHNN');
+</script>

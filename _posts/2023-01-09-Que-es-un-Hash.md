@@ -143,3 +143,12 @@ Aunque hay muchos algoritmos de hash diferentes disponibles, es importante elegi
 adecuado para cada aplicación para garantizar la seguridad y la eficiencia. Los hashes 
 son una herramienta muy útil en informática y continúan siendo una parte importante de 
 muchos sistemas y aplicaciones.
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QBRV3CHHNN"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-QBRV3CHHNN');
+</script>
