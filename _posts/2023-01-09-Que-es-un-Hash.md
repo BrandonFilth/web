@@ -40,7 +40,7 @@ para identificar a los usuarios o a los objetos. Por ejemplo, muchos sitios web
 utilizan hashes para generar claves únicas para los enlaces de descarga, para evitar
 que los usuarios compartan enlaces no autorizados.
 <p align="center">
-<img src="assets\images\Que-es-un-Hash\proceso_hash.png">
+<img src="assets/images/Que-es-un-Hash/proceso_hash.png>
 </p>
 
 ## Algoritmos de cifrado
