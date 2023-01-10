@@ -6,7 +6,7 @@ informática y la criptografía "
 date: 2023-01-09
 classes: wide
 header:
-  teaser: assets/images/Que-es-un-Hash/hash.png
+  teaser: /assets/images/Que-es-un-Hash/hash.png
   teaser_home_page: true
   icon: /assets/images/Iconos-Tematica/informatica.png
 categories:
@@ -43,7 +43,7 @@ utilizan hashes para generar claves únicas para los enlaces de descarga, para e
 que los usuarios compartan enlaces no autorizados.
 
 <p align="center">
-<img src="assets/images/Que-es-un-Hash/p-hash.png">
+<img src="/assets/images/Que-es-un-Hash/p-hash.png">
 </p>
 
 ## Algoritmos de cifrado
