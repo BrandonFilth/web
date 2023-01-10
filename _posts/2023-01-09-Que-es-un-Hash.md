@@ -54,8 +54,21 @@ características y usos. Algunos ejemplos comunes de algoritmos de hash son:
 más comunes y se utiliza a menudo para verificar la integridad de los datos. Toma 
 cualquier cantidad de datos como entrada y devuelve una cadena de 128 bits como salida. 
 Por ejemplo:
-Texto de entrada: "Hola mundo"
-Texto de salida: "ed076287532e86365e841e92bfc50d8c"
+
+```python
+  import hashlib
+
+  # Creamos un objeto de hash MD5
+  md5_hash = hashlib.md5()
+
+  # Podemos proporcionar los datos que queremos hashear como una cadena
+  md5_hash.update("Hola mundo")
+
+  # Obtenemos el hash como una cadena hexadecimal
+  md5_hex = md5_hash.hexdigest()
+
+  print(md5_hex)  # Imprime "ed076287532e86365e841e92bfc50d8c"
+```
 
 Aunque MD5 es muy utilizado, ha sido atacado y hay algunas vulnerabilidades conocidas. 
 Esto significa que, aunque es muy útil para verificar la integridad de los datos, no es 
@@ -65,18 +78,41 @@ tan seguro como algunos otros algoritmos.
 utiliza a menudo para verificar la integridad de los datos. Toma cualquier cantidad de 
 datos como entrada y devuelve una cadena de 160 bits como salida. 
 Por ejemplo:
-Texto de entrada: "Hola mundo"
-Texto de salida: "0a4d55a8d778e5022fab701977c5d840bbc486d0"
 
+```python
+  import hashlib
+
+  # Creamos un objeto de hash SHA-1
+  sha1_hash = hashlib.sha1()
+
+  # Podemos proporcionar los datos que queremos hashear como una cadena
+  sha1_hash.update("Hola mundo")
+
+  # Obtenemos el hash como una cadena hexadecimal
+  sha1_hex = sha1_hash.hexdigest()
+
+  print(sha1_hex)  # Imprime "2ef7bde608ce5404e97d5f042f95f89f1c232871"
+``` 
 Aunque SHA-1 es más seguro que MD5, también ha sido atacado y hay algunas 
 vulnerabilidades conocidas.
 
 - *SHA-256:* El algoritmo de hash SHA-256 (Secure Hash Algorithm 256) es una versión más segura del algoritmo SHA y se utiliza a menudo en la criptografía. Toma cualquier 
 cantidad de datos como entrada y devuelve una cadena de 256 bits como salida.
 Por ejemplo:
-Texto de entrada: "Hola mundo"
-Texto de salida: "185f8db32271fe25f561a6fc938b2e264306ec304eda518007d1764826381969"
+```python
+  import hashlib
 
+  # Creamos un objeto de hash SHA-256
+  sha256_hash = hashlib.sha256()
+
+  # Podemos proporcionar los datos que queremos hashear como una cadena
+  sha256_hash.update("Hola mundo")
+
+  # Obtenemos el hash como una cadena hexadecimal
+  sha256_hex = sha256_hash.hexdigest()
+
+  print(sha256_hex)  # Imprime "185f8db32271fe25f561a6fc938b2e264306ec304eda518007d1764826381969"
+```
 Aunque SHA-256 es más seguro que MD5 y SHA-1, también ha sido atacado y hay algunas 
 vulnerabilidades conocidas. Sin embargo, es considerado generalmente más seguro que 
 otros algoritmos de hash y ses comunmente utilizado en aplicaciones de criptografía.
