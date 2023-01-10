@@ -21,7 +21,9 @@ tags:
 Un *hash* es una función matemática que toma una cadena de datos de cualquier tamaño
 como entrada y devuelve una cadena de datos de tamaño fijo como salida. Un hash es una
 herramienta muy útil en informática, ya que se utiliza en muchas aplicaciones
-diferentes. Algunos usos comunes de los hashes incluyen:
+diferentes.
+
+## Usos comunes de los hashes:
 <br>
 - Verificar la integridad de los datos: Los hashes se utilizan a menudo para verificar
 que los datos no se hayan alterado durante la transmisión o el almacenamiento. Por
@@ -35,10 +37,11 @@ usuario introduce su contraseña, el sitio web la hashea y la compara con el has
 almacenado. Si los hashes coinciden, significa que la contraseña es correcta. Esto es 
 muy útil para proteger las contraseñas de los usuarios en caso de que un atacante 
 consiga acceder a la base de datos de contraseñas.
--  Generar claves únicas: Los hashes se utilizan a menudo para generar claves únicas
+- Generar claves únicas: Los hashes se utilizan a menudo para generar claves únicas
 para identificar a los usuarios o a los objetos. Por ejemplo, muchos sitios web
 utilizan hashes para generar claves únicas para los enlaces de descarga, para evitar
 que los usuarios compartan enlaces no autorizados.
+
 <p align="center">
 <img src="assets/images/Que-es-un-Hash/proceso_hash.png>
 </p>
