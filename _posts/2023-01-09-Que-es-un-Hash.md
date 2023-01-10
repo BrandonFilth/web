@@ -52,3 +52,25 @@ características y usos. Algunos ejemplos comunes de algoritmos de hash incluyen
 SHA-1 y SHA-256. Es importante elegir el algoritmo de hash adecuado para cada 
 aplicación, ya que algunos algoritmos son más seguros que otros.
 
+
+## Areas y sus aplicaciones 
+
+Además de su uso en aplicaciones informáticas, los hashes también se utilizan en otras 
+áreas, como la criptografía y la ciencia de la información. Por ejemplo, en la 
+criptografía, los hashes se utilizan a menudo como parte de los sistemas de firma 
+digital para verificar la autenticidad de los documentos y mensajes.
+
+En la ciencia de la información, los hashes se utilizan a menudo para indexar y 
+recuperar información. Por ejemplo, en un motor de búsqueda, el texto de cada página 
+web se hashea y se almacena en una base de datos. Cuando un usuario realiza una 
+búsqueda, el motor de búsqueda hashea la búsqueda y busca páginas web con hashes 
+similares en la base de datos. Esto permite al motor de búsqueda recuperar rápidamente 
+páginas web relevantes sin tener que examinar cada página web individualmente.
+
+En conclusión, un hash es una función matemática que se utiliza en muchas aplicaciones 
+informáticas y en otras áreas para realizar tareas como verificar la integridad de los 
+datos, proteger contraseñas, generar claves únicas y indexar y recuperar información. 
+Aunque hay muchos algoritmos de hash diferentes disponibles, es importante elegir el 
+adecuado para cada aplicación para garantizar la seguridad y la eficiencia. Los hashes 
+son una herramienta muy útil en informática y continúan siendo una parte importante de 
+muchos sistemas y aplicaciones.
