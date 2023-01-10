@@ -31,12 +31,14 @@ ejemplo, cuando descargas un archivo de Internet, el sitio web puede proporciona
 hash del archivo. Luego, puedes calcular el hash del archivo que has descargado y
 compararlo con el hash proporcionado para asegurarte de que el archivo no se haya
 dañado o alterado.
+<br>
 - Almacenar contraseñas: En lugar de almacenar las contraseñas en texto claro, muchos
 sitios web utilizan hashes para proteger las contraseñas de los usuarios. Cuando un
 usuario introduce su contraseña, el sitio web la hashea y la compara con el hash 
 almacenado. Si los hashes coinciden, significa que la contraseña es correcta. Esto es 
 muy útil para proteger las contraseñas de los usuarios en caso de que un atacante 
 consiga acceder a la base de datos de contraseñas.
+<br>
 - Generar claves únicas: Los hashes se utilizan a menudo para generar claves únicas
 para identificar a los usuarios o a los objetos. Por ejemplo, muchos sitios web
 utilizan hashes para generar claves únicas para los enlaces de descarga, para evitar
@@ -52,7 +54,7 @@ características y usos. Algunos ejemplos comunes de algoritmos de hash son:
 
 - *MD5:* El algoritmo de hash MD5 (Message Digest Algorithm 5) es uno de los algoritmos 
 más comunes y se utiliza a menudo para verificar la integridad de los datos. Toma 
-cualquier cantidad de datos como entrada y devuelve una cadena de 128 bits como salida. 
+cualquier cantidad de datos como entrada y devuelve una cadena de 128 bits como salida.<br> 
 Por ejemplo:
 
 ```python
@@ -77,6 +79,7 @@ tan seguro como algunos otros algoritmos.
 - *SHA-1:* El algoritmo de hash SHA-1 (Secure Hash Algorithm 1) es similar a MD5 y se 
 utiliza a menudo para verificar la integridad de los datos. Toma cualquier cantidad de 
 datos como entrada y devuelve una cadena de 160 bits como salida. 
+<br>
 Por ejemplo:
 
 ```python
@@ -98,7 +101,9 @@ vulnerabilidades conocidas.
 
 - *SHA-256:* El algoritmo de hash SHA-256 (Secure Hash Algorithm 256) es una versión más segura del algoritmo SHA y se utiliza a menudo en la criptografía. Toma cualquier 
 cantidad de datos como entrada y devuelve una cadena de 256 bits como salida.
+<br>
 Por ejemplo:
+
 ```python
   import hashlib
 
