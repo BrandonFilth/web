@@ -1,7 +1,7 @@
 ---
 title: "Mercado cripto"
 permalink: /market-overview/
-layout: default
+layout: single
 author_profile: true
 ---
 
