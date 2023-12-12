@@ -9,5 +9,7 @@ main:
     url: /tags/
   - title: "Buscador"
     url: /buscador/
+  - title: "Mercado Cripto"
+    url: /market-overview/
   - title: "Info"
     url: /about/
