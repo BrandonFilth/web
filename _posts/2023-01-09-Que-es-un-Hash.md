@@ -153,7 +153,5 @@ muchos sistemas y aplicaciones.
     gtag('config', 'G-QBRV3CHHNN');
 </script>
 
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget currency="usd" coin-id="krest" locale="en" height="300"></coingecko-coin-price-chart-widget>
 
 
