@@ -13,7 +13,6 @@ permalink: /about/
 ## Lenguajes
 Cuento con conocimientos en lenguajes de programacion como:
 - Java (Escritorio)
-- C (Escritorio)
 - C++ (Escritorio)
 - C# (Videojuegos)
 - Python (Escritorio y web)
@@ -22,12 +21,13 @@ Cuento con conocimientos en lenguajes de programacion como:
 ## Habilidades Extra
 - Reparacion, mantenimiento de Software y Hadware
 - Manejo basico de WordPress (Elementor)
-- Unity
-- Blender
-- Linux (Ubuntu)
+- Administracion de servidores
+- Test runner (Shardeum, Massa network, Taiko)
+- Linux (Debian y sus deribados)
 <br>
-Conocimiento en el mercado criptografico asi como sus derivados, Blockchain y tokenizacion (Smart Contracts)
-desplegada en redes como la Binance Smart Chain (BSC) y Ethereum (ETH)
+- Conocimiento en el mercado criptografico asi como sus derivados, Blockchain y tokenizacion (Smart Contracts)
+desplegada en redes EVM compatibles como la Binance Smart Chain (BSC), Polygon (MATIC) y Avalanche (AVAX) 
+
 
 ## Mercado Cripto 
 
@@ -35,8 +35,7 @@ desplegada en redes como la Binance Smart Chain (BSC) y Ethereum (ETH)
 
 
 ## Proyectos
-Organicé y lidere un equipo internacional (Canadá, EUA, Chile, España, Mexico) para desarrollar una criptomoneda en conjunto, conformado por 3 programadores, 2 diseñadores graficos y community managers, logramos ser listados en CoinMarketCap, ser top 10 en DexTools por volumen de trading
-y busquedas... 
+Organicé y lidere un equipo internacional (Canadá, EUA, Chile, España, Mexico) para desarrollar una criptomoneda en conjunto, conformado por 3 programadores, 2 diseñadores graficos y community managers, logramos ser listados en CoinMarketCap, ser top 10 en DexTools por volumen y busquedas... 
 
 ### Links de Referencia: 
 
@@ -46,7 +45,7 @@ y busquedas...
 - [Evento en Twich](https://twitter.com/CoinDoni/status/1422955264806817799?s=20&t=XlLUvrGDG2tPgIoCA-vfRg)
 - [Repositorio del Smart Contract](https://github.com/BrandonFilth/Doni-Coin)
 
-Asi lucía nuestro website: 
+ Nuestro website: 
 <p align="left">
 <img src="/assets/images/LogIn.jpg">
 </p>
