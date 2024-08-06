@@ -7,18 +7,11 @@ permalink: /about/
 
 # Datos Personales
 **Nombre:** Brandon Correa<br>
-**Estudios:** Ingenieria en computacion<br>
+**Estudios:** Ingenieria en computacion (carrera trunca)<br>
 **Fecha de nacimiento:** 22/05/02
 
-## Lenguajes
-Cuento con conocimientos en lenguajes de programacion como:
-- Java (Escritorio)
-- C++ (Escritorio)
-- C# (Videojuegos)
-- Python (Escritorio y web)
 
-
-## Habilidades Extra
+## Habilidades 
 - Reparacion, mantenimiento de Software y Hadware
 - Manejo basico de WordPress (Elementor)
 - Administracion de servidores
@@ -29,29 +22,11 @@ Cuento con conocimientos en lenguajes de programacion como:
 desplegada en redes EVM compatibles como la Binance Smart Chain (BSC), Polygon (MATIC) y Avalanche (AVAX) 
 
 
-## Mercado Cripto 
-
-/**/**/**/**/**/**/
-
-
-## Proyectos
-Organicé y lidere un equipo internacional (Canadá, EUA, Chile, España, Mexico) para desarrollar una criptomoneda en conjunto, conformado por 3 programadores, 2 diseñadores graficos y community managers, logramos ser listados en CoinMarketCap, ser top 10 en DexTools por volumen y busquedas... 
-
-### Links de Referencia: 
-
-- [CoinMarketCap](https://coinmarketcap.com/currencies/doni-coin/)
-- [Twitter](https://twitter.com/CoinDoni)
-- [Youtube](https://www.youtube.com/watch?v=_AP_Z10C4aM)
-- [Evento en Twich](https://twitter.com/CoinDoni/status/1422955264806817799?s=20&t=XlLUvrGDG2tPgIoCA-vfRg)
-- [Repositorio del Smart Contract](https://github.com/BrandonFilth/Doni-Coin)
-
- Nuestro website: 
-<p align="left">
-<img src="/assets/images/LogIn.jpg">
-</p>
-
-
-
+## Certificados
+- [Get Connected (CISCO](https://github.com/BrandonFilth/brandonfilth.github.io/blob/main/assets/BRANDON%20MISAELCORREA%20NAVARRO-Get%20Connected%20Es-certificate.pdf)
+- [Linux Unhatched (NDG)](https://github.com/BrandonFilth/brandonfilth.github.io/blob/main/assets/BRANDON%20MISAELCORREA%20NAVARRO-NDG%20Linux%20Unhatc-certificate.pdf)
+- [Introduction to cybersecurity (CISCO)](https://github.com/BrandonFilth/brandonfilth.github.io/blob/main/assets/Introduction_to_Cybersecurity_Badge20231008-29-895lxa.pdf)
+- [Personalizacion de entorno en Linux (HACK4U)](https://github.com/BrandonFilth/brandonfilth.github.io/blob/main/assets/Personalizacion%20de%20linux.pdf)
 
 ## Hobbies
 La mayor parte del tiempo mis hobbies estan orientados en programacion, cripto, estudio autodidacta,
